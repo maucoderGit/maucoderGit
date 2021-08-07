@@ -1,14 +1,30 @@
-😃I´m Mauricio Gonzalez
+### Hi! I'm Mauricio ☕️ Developer
 
-The best thing about being a programmer it's that possibility to create a new world to your users
+``` js
+   const TECHNOLOGIES = [JavaScript, Python]
+   let some_features = ["Logic coding", "Aesthetic code", "Read", "Continue improving"]
+```
+#### About me 👀:
+- I'm currently working in e-commerce📢.
+- I've experience with Python logic🐍.
+- From Venezuela.
+- Interest in Data, Marketing, Design(Visual), VideoGames & Tech
+- Make each line of code as if it were the last. 🧡
 
-Technology and content creation united my passions and skills in what I do today.
+#### How can find me 🔎: 
 
-I study full stack development, I specialize in web development with React and use Wordpress hosting.
+- 💻[Linkedin](https://www.linkedin.com/in/mauricio-ale-gonzalez/)
+- 📰[Twitter](https://twitter.com/Maucoder)
+- 📱[Instagram](https://www.instagram.com/maucoder)
 
-Contact me in: maugfalcon1@gmail.com
-@maucoder in twitter & instagram
-GitHub: github.com/maucoderGit
+#### Languages and Tools :computer:
+
+
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/hritik5102)](https://github.com/hritik5102)[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
 <!---
 maucoderGit/maucoderGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
