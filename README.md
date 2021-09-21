@@ -1,7 +1,7 @@
 ### Hi! I'm Mauricio ☕️ Developer
 
 ``` js
-   const TECHNOLOGIES = [JavaScript, Python]
+   const TECHNOLOGIES = [JavaScript, HTML, CSS]
    let some_features = ["Logic coding", "Aesthetic code", "Read", "Continue improving"]
 ```
 #### About me 👀:
