@@ -2,7 +2,7 @@
 
 ``` js
    const TECHNOLOGIES = [JavaScript, HTML, CSS]
-   let some_features = ["Logic coding", "Aesthetic code", "Read", "Continue improving"]
+   let some_features = ["Logic coding", "Read", "Continue improving"]
 ```
 #### About me 👀:
 - I'm currently working in e-commerce📢.
