@@ -1,7 +1,7 @@
 ### Hi! I'm Mauricio ☕️ Developer
 
 ``` js
-   const TECHNOLOGIES = [JavaScript, HTML, CSS]
+   const TECHNOLOGIES = [Python, Django, FastAPI]
    let some_features = ["Logic coding", "Read", "Continue improving"]
 ```
 #### About me 👀:
