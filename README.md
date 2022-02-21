@@ -5,8 +5,7 @@
    let some_features = ["Logic coding", "Read", "Continue improving"]
 ```
 #### About me 👀:
-- I'm currently working in e-commerce📢.
-- I've experience with Python logic🐍.
+- Python Developer.
 - From Venezuela.
 - Interest in Data, Marketing, Design(Visual), VideoGames & Tech
 - Make each line of code as if it were the last. 🧡
