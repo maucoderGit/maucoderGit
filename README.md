@@ -1,4 +1,4 @@
-### Hi! I'm Mauricio ☕️ Developer
+### Hi! I'm Mauricio ☕️ Backend Developer
 
 ``` js
    const TECHNOLOGIES = [Python, Django, FastAPI]
