@@ -1,7 +1,7 @@
 ### Hi! I'm Mauricio ☕️ Backend Developer
 
 ``` js
-   const TECHNOLOGIES = [Python, Django, FastAPI]
+   const TECHNOLOGIES = [Python, Flask, FastAPI]
 ```
 #### About me:
 - Python Developer.
