@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/maucoder/">
   <img align="left" alt="maucoder LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://youtube.com">
+<a href="https://www.youtube.com/channel/UC9xMw95kGEZPw6Kbkj9cKSA">
   <img align="left" alt="maucoder Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="https://medium.com">
