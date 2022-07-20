@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Selenium**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
-- ⚡ Fun fact: Currently developing **The One Piece API** to get and add characters.
+- ⚡ Fun fact: Currently developing **REDITT_CLONE** Django app.
 
 </h4>
 </div>
