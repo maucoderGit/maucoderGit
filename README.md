@@ -20,7 +20,7 @@
 <p>
 
 - 🔭 I’m currently working on **a web portfolio using Django**
-- 🌱 I’m currently learning Selenium**
+- 🌱 I’m currently learning **Selenium**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
 - ⚡ Fun fact: Currently developing **The One Piece API** to get and add characters.
