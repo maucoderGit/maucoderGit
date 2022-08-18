@@ -19,11 +19,11 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on **a web portfolio using Django**
-- 🌱 I’m currently learning **Selenium**
+- 🔭 I’m currently working on **a Django Project**
+- 🌱 I’m currently learning **JavaScript**
 - 👯 If you have any projects you would like to colaborate, reach out to me.
 - 💬 Ask me about **anything**
-- ⚡ Fun fact: Currently developing **REDITT_CLONE** Django app.
+- ⚡ Fun fact: Currently **helping as a Platzi Contributor**.
 
 </h4>
 </div>
