@@ -10,7 +10,7 @@
 <a href="https://www.youtube.com/channel/UC9xMw95kGEZPw6Kbkj9cKSA">
   <img align="left" alt="maucoder Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-<a href="https://https.twitter.com/maucoder">
+<a href="https://www.twitter.com/maucoder">
   <img align="left" alt="maucoder Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
 </a>
 
