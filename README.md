@@ -9,11 +9,9 @@
 <br />
 <p>
 
-- 🔭 I’m currently working on **a Django Project**
-- 🌱 I’m currently learning **JavaScript**
+- 🔭 I’m currently working with Odoo, Django and Flutter
+- 🌱 I’m currently learning C#
 - 👯 If you have any projects you would like to colaborate, reach out to me.
-- 💬 Ask me about **everything**
-- ⚡ Fun fact: Currently **helping as a Platzi Contributor**.
 
 </h4>
 </div>
