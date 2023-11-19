@@ -23,6 +23,10 @@
 ![MaucoderGit's github stats](https://github-readme-stats.vercel.app/api?username=maucodergit&show_icons=true)
 <br />
 
+<br />
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/655a22f368ca6026134fdcf2?variant=light)](https://roadmap.sh)
+
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=maucodergit.maucodergit)
 
