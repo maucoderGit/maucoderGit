@@ -38,4 +38,4 @@ I also have experience with:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maucoder)
 #### ⚡️ Fun fact!
 
-I don't know what tu say here.
+I don't know what to say here.
