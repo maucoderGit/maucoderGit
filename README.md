@@ -1,6 +1,3 @@
-
-# Hi, I'm maucoder! Back-end developer 👋
-
 The back-end developer with anime characters as profile on all my social media.
 
 #### 🤔 Why do i do that?
@@ -8,13 +5,7 @@ The back-end developer with anime characters as profile on all my social media.
 It's just funny.
 ## 🚀 What about me?
 
-I have fully knowdlege in Odoo development since v14, already had 2 years developing in this framework.
-
-Django and FastAPI are my first choise when we are talking about web applications and web services.
-
-It's obvious to saying it but, Python is my favorite language, focusing it on using typing and the best practices to keep code readable.
-
-Code is done to be readable <3
+Long descriptions are boring, I just love computer science and Programming a lot.
 
 ## 🛠 What can I do?
 
@@ -28,7 +19,7 @@ As i said i have experience with:
 
 I also have experience with:
 
-- Flutter, in my opinion, an incredible tool for multi-platform development
+- Flutter
 - Dart
 - Docker
 - HTML, JavaScript, CSS
@@ -38,4 +29,4 @@ I also have experience with:
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maucoder)
 #### ⚡️ Fun fact!
 
-I don't know what to say here.
+Did you know that Python has else conditionals in bucles?
