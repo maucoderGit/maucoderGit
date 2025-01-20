@@ -1,7 +1,7 @@
 I'm Maucoder, Hi!
 
 - 👀 I’m interested in Computer Science, no more to add.
-- 🌱 Kotlin, Java and C (Yeah, Java for work).
+- 🌱 Learning Kotlin, Java and C (Yeah, Java for work).
 - 💞️ I’m looking to collaborate on Odoo and Mobile development
 - 📫 Talk to me in Twitter or LinkedIn, in Both I'm maucoder (I have no identity issues for now).
 
